@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/matter.png",
+        "source": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/matter.png"
+    },
+    {
+        "merged": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/dark_energy.png",
+        "source": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/dark_energy.png"
+    },
+    {
+        "merged": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/dark_matter.png",
+        "source": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/dark_matter.png"
+    },
+    {
+        "merged": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-hdpi/energy.png",
+        "source": "/home/master/CMPUT301/LAB1/FillerCreepForAndroid/app/src/main/res/drawable-hdpi/energy.png"
+    }
+]
